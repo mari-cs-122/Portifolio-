@@ -1,0 +1,53 @@
+body{
+    background-color: #541428;
+    color: aliceblue;
+}
+.cabecalho{
+    background-color: #460D1B;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 10px;
+    text-align: center;
+    font-family: cursive;
+}
+.menu{
+    background-color: #460D1B;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 10px;
+    font-family: cursive;
+    
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    padding: 10px;
+}
+nav ul a{
+    text-decoration: none;
+    color: aliceblue;
+}
+section{
+    background-color: #460D1B;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 10px;
+    font-family: cursive;
+}
+img{
+    border-radius: 80px;
+    height: 160px;
+    width: 160px;
+    border: 5px ;
+
+}
+
+footer{
+      background-color: #460D1B;
+    padding: 10px;
+    margin: 15px;
+    border-radius: 10px;
+    font-family: cursive;
+}
